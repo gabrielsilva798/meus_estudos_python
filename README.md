@@ -1,2 +1,2 @@
-# estudos_python
- estudos pesoais sobre python
+# estudos_datascience
+ estudos pesoais sobre datascience/python
